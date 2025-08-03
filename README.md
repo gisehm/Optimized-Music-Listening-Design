@@ -19,7 +19,7 @@ To accomplish this, I first cleaned a dataset of Spotify's most streamed songs a
 
 ## Data Sources <!--- do not change this line -->
 
-Kaggle Dataset: *[Spotify Most Streamed Songs]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data))*
+*Kaggle Dataset: [Spotify Most Streamed Songs](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data)*
 
 ## Technologies Used <!--- do not change this line -->
 
