@@ -15,11 +15,11 @@ Music is and always has been an integral part of our daily lives; however, we fi
 
 ## Methodologies <!--- do not change this line -->
 
-To accomplish this, I first cleaned a dataset of Spotify's most streamed songs and used Jupyter Notebook to create histograms as well as cluster plots to see the possible biases that may be present in this specific dataset. In order to tackle said bias, I designed a Python script which takes in specific user input and based on this input, the algorithm outputs the song based on their preference, NOT based on popularity. Successfully tackles bias by factoring out popularity and outputting songs solely based on the preference described by the user.
+To accomplish this, I first cleaned a dataset of Spotify's most streamed songs and used Jupyter Notebook to create histograms as well as cluster plots to see the possible biases that may be present in this specific dataset. In order to tackle said bias, I designed a Python script that takes in specific user input and, based on this input, the algorithm outputs the song based on their preference, NOT based on popularity. Successfully tackles bias by factoring out popularity and outputting songs solely based on the preference described by the user.
 
 ## Data Sources <!--- do not change this line -->
 
-Kaggle Dataset: [Spotify Most Streamed Songs]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data))*
+Kaggle Dataset: *[Spotify Most Streamed Songs]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data))*
 
 ## Technologies Used <!--- do not change this line -->
 
@@ -31,10 +31,7 @@ Kaggle Dataset: [Spotify Most Streamed Songs]([https://www.kaggle.com/datasets](
 - *scikit-learn*
 - *seaborn*
 
-
 ## Authors <!--- do not change this line -->
-
-(UPDATE IN README.md)
 
 *This project was completed by:*
 - *Giselle Muriel ([gisellemuriel123@gmail.com](mailto:gisellemuriel123@gmail.com))*
