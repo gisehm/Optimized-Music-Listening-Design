@@ -1,4 +1,4 @@
-# Optimized-Spotify-Listening-Design
+# Optimized-Music-Listening-Design
 
 Helped create a more personalized listening experience while also addressing biases in music apps such as Spotify by creating a Python-fueled machine-learning algorithm that takes in a dataset of songs, sorts them based on user input, and outputs the songs that best fit the user's choice.
 
