@@ -19,9 +19,9 @@ To accomplish this, I first cleaned a dataset of Spotify's most streamed songs a
 
 ## Data Sources <!--- do not change this line -->
 
-*Kaggle Datasets: 
+*Kaggle Datasets:*
 - [Spotify Most Streamed Songs](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data)
-- [Top 50 Spotify Songs - 2019](https://www.kaggle.com/datasets/leonardopena/top50spotify2019?resource=download)*
+- [Top 50 Spotify Songs - 2019](https://www.kaggle.com/datasets/leonardopena/top50spotify2019?resource=download)
 
 ## Technologies Used <!--- do not change this line -->
 
