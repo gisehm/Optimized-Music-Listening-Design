@@ -4,7 +4,7 @@ Helped create a more personalized listening experience while also addressing bia
 
 ## Problem Statement <!--- do not change this line -->
 
-Music is and always has been an integral part of our daily lives; however, we find that music listening may not always fit the liking of the user, which is an issue we hope to reveal and address.
+Music is and always has been an integral part of our daily lives; however, we find that music listening may not always fit the liking of the user, which is an issue we hope to reveal and address. Along with this, some apps show biases towards certain musicians or genres, which we hope to mitigate.
 
 ## Key Results <!--- do not change this line -->
 
