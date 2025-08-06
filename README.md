@@ -13,6 +13,7 @@ Music is and always has been an integral part of our daily lives; however, we fi
 3. Cluster plot of danceability and acousticness displays a strong preference for songs with high danceability and energy.
 4. Displays a possible bias in popular Spotify songs, as they may favor specific artists or genres.
 5. No specific bias towards songs with high valence ("happy" songs).
+![Data Visualization](Acousticness Descriptives Histogram.png)
 
 ## Methodologies <!--- do not change this line -->
 
